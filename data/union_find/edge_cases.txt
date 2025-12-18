@@ -1,0 +1,2 @@
+- Must initialize parents correctly
+- Path compression is essential for efficiency

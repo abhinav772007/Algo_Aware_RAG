@@ -1,0 +1,3 @@
+Breadth First Search is a graph traversal method that explores vertices in increasing order of distance from a given source.
+It visits all neighbors of a node before moving to the next level, which makes it suitable for finding shortest paths in unweighted graphs.
+A queue is used to maintain the order of exploration.

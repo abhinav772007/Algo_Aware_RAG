@@ -1,0 +1,2 @@
+Union Find is a data structure that efficiently manages disjoint sets and supports union and find operations.
+Path compression and union by rank optimize its performance.

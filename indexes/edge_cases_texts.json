@@ -1,0 +1,9 @@
+[
+  "- Graph may be disconnected\n- Source node may have no neighbors\n- Graph may contain cycles\n",
+  "- Array must be sorted\n- Duplicate elements may require modified logic\n- Integer overflow in mid calculation\n",
+  "- Deep recursion may cause stack overflow\n- Graph may be disconnected\n- Cycles must be handled using visited array\n",
+  "- Does not work with negative weights\n- Graph may be disconnected\n",
+  "- Extra memory usage\n- Recursive depth for large arrays\n",
+  "- Window size larger than array\n- Negative values may affect logic\n",
+  "- Must initialize parents correctly\n- Path compression is essential for efficiency\n"
+]

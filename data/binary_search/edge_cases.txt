@@ -1,0 +1,3 @@
+- Array must be sorted
+- Duplicate elements may require modified logic
+- Integer overflow in mid calculation

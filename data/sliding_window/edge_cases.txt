@@ -1,0 +1,2 @@
+- Window size larger than array
+- Negative values may affect logic

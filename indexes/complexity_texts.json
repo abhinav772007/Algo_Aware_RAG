@@ -1,0 +1,10 @@
+[
+  "Time Complexity: O(V + E)\nSpace Complexity: O(V) due to queue and visited array\n\n",
+  "Time Complexity: O(log N)\nSpace Complexity: O(1)\n",
+  "Time Complexity: O(V + E)\nSpace Complexity: O(V) due to recursion stack\n",
+  "Time Complexity: O((V + E) log V)\nSpace Complexity: O(V)\n",
+  "Time Complexity: O(N log N)\nSpace Complexity: O(N)\n",
+  "Time Complexity: O(N)\nSpace Complexity: O(1)\n",
+  "Time Complexity: O(N)\nSpace Complexity: O(1)\n",
+  "Time Complexity: O(\u03b1(N)) amortized\nSpace Complexity: O(N)\n\n"
+]

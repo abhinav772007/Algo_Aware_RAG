@@ -1,0 +1,2 @@
+Sliding Window is a technique used to process contiguous subarrays efficiently by maintaining a window over the data.
+Instead of recomputing values for each subarray, the window is updated incrementally.

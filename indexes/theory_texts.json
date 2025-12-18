@@ -1,0 +1,10 @@
+[
+  "Breadth First Search is a graph traversal method that explores vertices in increasing order of distance from a given source.\nIt visits all neighbors of a node before moving to the next level, which makes it suitable for finding shortest paths in unweighted graphs.\nA queue is used to maintain the order of exploration.\n",
+  "Binary Search is an efficient algorithm for finding an element in a sorted array by repeatedly dividing the search space in half.\nAt each step, it compares the target value with the middle element and eliminates one half of the array.\n",
+  "Depth First Search explores a graph by going as deep as possible along each path before backtracking.\nIt can be implemented using recursion or an explicit stack and is commonly used for cycle detection, topological sorting, and connectivity analysis.\n",
+  "Dijkstra\u2019s algorithm finds the shortest path from a source to all vertices in a graph with non-negative edge weights.\nIt repeatedly selects the node with the smallest known distance using a priority queue.\n",
+  "Merge Sort is a divide-and-conquer algorithm that splits the array into halves, sorts them recursively, and then merges the sorted halves.\nIt guarantees stable sorting and consistent performance.\n",
+  "Sliding Window is a technique used to process contiguous subarrays efficiently by maintaining a window over the data.\nInstead of recomputing values for each subarray, the window is updated incrementally.\n",
+  "The two pointers technique uses two indices that move through a data structure to solve problems involving pairs or subarrays.\nIt is commonly applied to sorted arrays and helps reduce time complexity from quadratic to linear.\n",
+  "Union Find is a data structure that efficiently manages disjoint sets and supports union and find operations.\nPath compression and union by rank optimize its performance.\n"
+]

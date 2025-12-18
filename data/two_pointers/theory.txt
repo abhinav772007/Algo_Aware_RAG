@@ -1,0 +1,2 @@
+The two pointers technique uses two indices that move through a data structure to solve problems involving pairs or subarrays.
+It is commonly applied to sorted arrays and helps reduce time complexity from quadratic to linear.

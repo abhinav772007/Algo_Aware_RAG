@@ -1,0 +1,3 @@
+- Deep recursion may cause stack overflow
+- Graph may be disconnected
+- Cycles must be handled using visited array

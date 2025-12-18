@@ -1,0 +1,2 @@
+Dijkstra’s algorithm finds the shortest path from a source to all vertices in a graph with non-negative edge weights.
+It repeatedly selects the node with the smallest known distance using a priority queue.

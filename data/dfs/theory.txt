@@ -1,0 +1,2 @@
+Depth First Search explores a graph by going as deep as possible along each path before backtracking.
+It can be implemented using recursion or an explicit stack and is commonly used for cycle detection, topological sorting, and connectivity analysis.

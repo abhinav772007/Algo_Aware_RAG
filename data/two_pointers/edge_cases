@@ -1,0 +1,3 @@
+- Works best on sorted data
+- Care needed with pointer movement
+- Overlapping pointers must be handled

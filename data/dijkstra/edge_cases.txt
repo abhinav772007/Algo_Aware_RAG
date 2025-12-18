@@ -1,0 +1,2 @@
+- Does not work with negative weights
+- Graph may be disconnected

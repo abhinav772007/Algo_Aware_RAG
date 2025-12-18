@@ -1,0 +1,3 @@
+- Graph may be disconnected
+- Source node may have no neighbors
+- Graph may contain cycles
